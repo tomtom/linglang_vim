@@ -30,7 +30,10 @@ The pattern for the words and the regexps will be joined with \| (see
 
 -----------------------------------------------------------------------
 
-Extracted from http://github.com/tomtom/vimtlib
 Status:  Not in use (I wouldn't know if there were problems)
+Dependencies:
+  hookcursormoved :: http://github.com/tomtom/hookcursormoved_vim
+      > git clone git://github.com/tomtom/hookcursormoved_vim.git
 Install: See http://github.com/tomtom/vimtlib/blob/master/INSTALL.TXT
+See http://github.com/tomtom for related plugins.
 
