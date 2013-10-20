@@ -1,5 +1,3 @@
-*linglang.txt*      Perform actions on basis of the current line's language
-
 The command |:Linglang| installs a buffer-local autocommand that checks 
 the current line's language. I.e. enabling linglang for the current 
 buffer won't affect other buffers. If the language of the line under the 
